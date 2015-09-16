@@ -1,0 +1,12 @@
+{
+  "name": "boutonniere",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "~3.3.1",
+    "gsap": "~1.18.0"
+  },
+  "devDependencies": {
+    "chai": "~3.3.0",
+    "mocha": "~2.3.2"
+  }
+}
